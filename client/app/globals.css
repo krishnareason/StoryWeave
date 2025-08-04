@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for Tiptap Toolbar */
+.is-active {
+  font-weight: bold;
+  background-color: #e0e0e0;
+}
