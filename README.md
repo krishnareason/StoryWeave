@@ -2,10 +2,6 @@
 
 StoryWeave is a full-stack web application that redefines the blogging experience by integrating powerful AI writing assistants. Built with a modern tech stack, this platform allows users to seamlessly create, manage, and publish blog posts while leveraging AI to enhance creativity and productivity.
 
-### ✨ Live Demo
-* **Frontend (Vercel):** [Link to your deployed frontend]
-* **Backend (Render):** [Link to your deployed backend API]
-
 ---
 
 ## Key Features
